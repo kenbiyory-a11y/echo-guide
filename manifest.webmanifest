@@ -1,0 +1,17 @@
+{
+  "name": "心エコー記録ガイド",
+  "short_name": "エコー記録",
+  "description": "心エコーの記録法ガイド：EF（Simpson・Mモード）、LVOT VTI、弁膜症（MR・AS・AR・TR）、TRPG と肺動脈圧、PW/CW の使い分け",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#0d9488",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
